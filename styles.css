@@ -1,0 +1,37 @@
+.service_heading{
+  text-align: center;
+  margin-top: 2%;
+}
+
+.align{
+  margin-top: 3%;
+  text-align: center;
+}
+
+.line{
+  color: blue;
+  border:solid;
+  border-width:medium;
+  margin: 15px;
+
+}
+
+.c_tk{
+  color: black;
+  margin: 15px;
+}
+
+.c_fac{
+
+}
+.c_you{
+  color: red;
+  margin: 15px;
+}
+.c_ig{
+  color: pink;
+  margin: 15px;
+}
+#s{
+  width: 290px;
+}
